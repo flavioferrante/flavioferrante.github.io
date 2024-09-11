@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="it">
+	<head>
+	<meta charset="utf-8"/>
+	<title>HTECH6</title>
+	</head>
+		<body>
+		<p><h1>Il mio gatto è <strong> molto </strong> scontroso</h1> </p>
+<!LIVELLI DI INTESTAZIONE:-->
+<h1>Titolo principale</h1>
+<h2>Sotto intestazione principale</h1>
+<h3>Sotto titolo</h3>
+<h4>sotto sotto titolo</h4>
+<h5>titolino</h5>
+<h6>sotto titolino</h6>
+
+		<img src="images/firefox.png" alt="logo firefox"/>
+		</body>
+</html>
